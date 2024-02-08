@@ -6,7 +6,7 @@ This project introduces a web-based application designed to explore and analyze 
 
 2.Technologies and Libraries Used
 Python: 
-Streamlit: Employs this framework to create a user-friendly web application that facilitates interactive data exploration without the need for complex web development skills.
+Streamlit: 
 Plotly Express: 
 Pandas: 
 
@@ -20,23 +20,8 @@ Clone the GitHub repository:
 git clone https://github.com/Morgu13/vehicles_us.git
 cd car-dataset-explorer
 
-Create and activate a Python virtual environment 
-
-Windows:
-
-python -m venv venv
-.\venv\Scripts\activate
-
-macOS/Linux:
-
-python3 -m venv venv
-source venv/bin/activate
-Install the required Python packages:
-
-
 pip install -r requirements.txt
 Launch the Streamlit application:
-
 
 streamlit run app.py
 Access the web application by navigating to http://localhost:8501 in your web browser.
