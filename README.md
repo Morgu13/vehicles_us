@@ -30,4 +30,6 @@ How to Use
 After launching the application, use the sidebar to select your preferences for car attributes such as price range, model year, condition, etc. 
 
 
-[Click here to view the deployed application on Render](<https://morgu-project.onrender.com>)
+[Click here to view the deployed application on Render]
+
+(<https://morgu-project.onrender.com>)
